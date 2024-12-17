@@ -19,8 +19,11 @@ Whether you're a developer, a user, or someone passionate about improving search
 
 ### **Coming soon**
 - **New functionalities**: more elements to be hidden (ads, AI Overviews, ...).  
+- **Beyond Google Search**: support to other search engines.
+- **Beyond Chrome**: support to other browsers.
 
 ### **How to Contribute**  
+1. Send feedback.  
 2. Submit a pull request with your changes.  
 3. Report issues or suggest new features.  
 
