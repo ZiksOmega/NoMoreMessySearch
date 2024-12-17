@@ -1,5 +1,5 @@
 # NoMoreMessySearch
-Browser extensions to clean search result pages
+Browser extension to clean search result pages
 
 **A free, non-profit Chrome extension to customize your Google Search Results Page (SERP). Open for contributions!**
 
